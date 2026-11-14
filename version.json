@@ -1,0 +1,14 @@
+{
+  "version": "1.2.0",
+  "releaseDate": "2026-11-14",
+  "notes": "v1.2 - Cek Update via internet, cuaca Open-Meteo live, Wikipedia, API Meta, suara 2 arah diperbaiki.",
+  "downloadUrl": "https://github.com/USERNAME-KAMU/jarvis-command-center/releases",
+  "minVersion": "1.0.0",
+  "changelog": [
+    "Cek Update via internet",
+    "Cuaca live Open-Meteo",
+    "Wikipedia internet",
+    "API Meta beneran",
+    "Suara 2 arah diperbaiki"
+  ]
+}
